@@ -1,2 +1,3 @@
-# Ecommerce_store
+# Ecommerce_store with Firebase
+
 Working on 
